@@ -1,0 +1,25 @@
+{
+  "name": "next-graphcms",
+  "version": "1.0.0",
+  "description": "A boilerplate in NextJS and GraphCMS for a simple SSR website with dynamic content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-wozniak/node-next-graphcms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-wozniak/node-next-graphcms/issues"
+  },
+  "homepage": "https://github.com/g-wozniak/node-next-graphcms#readme",
+  "dependencies": {
+    "graphql-request": "^3.4.0",
+    "next": "^10.0.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
